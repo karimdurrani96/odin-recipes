@@ -1,1 +1,1 @@
-# odin-recipes
+The point of this project is to test what I have learned so far with HTML. This will officially be my first project.
